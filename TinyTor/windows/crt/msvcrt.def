@@ -1,0 +1,4 @@
+EXPORTS
+printf
+memset
+memcpy
